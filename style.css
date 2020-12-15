@@ -1,0 +1,25 @@
+
+  .big-figure {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    max-width: 98%;
+    max-height: 98%;
+  }
+  
+  .full-page{
+    position: absolute;
+    top: 1%;
+  /*   left: 1%; */
+    max-width: 98%;
+    max-height: 98%;
+  }
+  
+  /* .📖-page {
+      background: #231f20 !important;
+    } */
+
+  /* img {
+      transform: scaleX(150%);
+      transform: scaleY(150%);
+  } */
